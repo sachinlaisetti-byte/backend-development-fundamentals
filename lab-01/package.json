@@ -1,0 +1,17 @@
+{
+  "name": "lab-01",
+  "version": "1.0.0",
+  "description": "Lab 1: Node.js and Express server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "plain": "node plain-server.js"
+  },
+  "keywords": [],
+  "author": "Sachin Laisetti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
